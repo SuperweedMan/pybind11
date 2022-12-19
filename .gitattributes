@@ -1,1 +1,2 @@
 docs/*.svg binary
+build/ filter=lfs diff=lfs merge=lfs -text
